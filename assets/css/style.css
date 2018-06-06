@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+  }
+  
+  html, body{
+      color: #777777;
+      background-image: url("");
+      border-color: #dddddd;
+      font-size: 18px;
+      line-height: 34px;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages4.fanpop.com%2Fimage%2Fphotos%2F18800000%2FPsychic-psychics-18846940-500-500.jpg&imgrefurl=http%3A%2F%2Fwww.fanpop.com%2Fclubs%2Fpsychics%2Fimages%2F18846940%2Ftitle%2Fpsychic-photo&docid=TSQt4aXPGvne8M&tbnid=xTPP734MwOm1OM%3A&vet=10ahUKEwiQ2siOwr3bAhVK7FMKHcPVC4IQMwhAKAswCw..i&w=500&h=500&client=safari&bih=785&biw=1145&q=images%20psychic%20background&ved=0ahUKEwiQ2siOwr3bAhVK7FMKHcPVC4IQMwhAKAswCw&iact=mrc&uact=8") 	
+  }
+  .wrapper {
+    min-height: 100%;
+    height: auto;
+    height: 100%;
+    margin: 0 auto -4em;
+  }
+  .mainHeader{
+      columns: 4px;
+}
+
+  #game{
+      text-align: left;
+  }
+  #container{
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+      clear: both;	
+  }
+  
+  .footer, .push {
+    height: 4em;
+    text-align: center;
+  }
